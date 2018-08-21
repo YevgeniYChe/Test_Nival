@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test_Nival.CSharp", "Test_Nival.CSharp.csproj", "{C54D5F38-5F25-4AC8-571C-6E0392EE126A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityServer", "UnityServer\UnityServer.csproj", "{9A89CA0C-EFF3-4A78-891D-FCE1D359BBB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C54D5F38-5F25-4AC8-571C-6E0392EE126A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C54D5F38-5F25-4AC8-571C-6E0392EE126A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C54D5F38-5F25-4AC8-571C-6E0392EE126A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C54D5F38-5F25-4AC8-571C-6E0392EE126A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A89CA0C-EFF3-4A78-891D-FCE1D359BBB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A89CA0C-EFF3-4A78-891D-FCE1D359BBB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A89CA0C-EFF3-4A78-891D-FCE1D359BBB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A89CA0C-EFF3-4A78-891D-FCE1D359BBB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
