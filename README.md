@@ -1,6 +1,6 @@
 # Тестовое задание Nival
 
-Сервер - UnityServer
+Сервер - UnityServer.
 Сервер сделан на WebAPI. Для работы сервера, нужно запустить проект в Visual Studio и запустить UnityServer.
 
 Код логики на сервере находится в папке UnityServer/GameLogic.
