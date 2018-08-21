@@ -1,4 +1,4 @@
-# Test_Nival
+# Тестовое задание в компанию Nival
 Тестовое задание Nival
 
 Сервер - UnityServer
