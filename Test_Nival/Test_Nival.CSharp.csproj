@@ -240,15 +240,15 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\Client\ClientUnit.cs" />
+    <Compile Include="Assets\Scripts\Client\EventManager.cs" />
     <Compile Include="Assets\Scripts\Client\MapCreator.cs" />
+    <Compile Include="Assets\Scripts\Client\MyWebService.cs" />
+    <Compile Include="Assets\Scripts\Client\PlayerMovement.cs" />
     <Compile Include="Assets\Scripts\Client\SelectPers.cs" />
     <Compile Include="Assets\Scripts\Client\StateClient.cs" />
-    <Compile Include="Assets\Scripts\ClientUnit.cs" />
-    <Compile Include="Assets\Scripts\EventManager.cs" />
-    <Compile Include="Assets\Scripts\MyWebService.cs" />
-    <Compile Include="Assets\Scripts\PlayerMovement.cs" />
-    <Compile Include="Assets\Scripts\TileClient.cs" />
-    <Compile Include="Assets\Scripts\UnitController.cs" />
+    <Compile Include="Assets\Scripts\Client\TileClient.cs" />
+    <Compile Include="Assets\Scripts\Client\UnitController.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\SyntaxTree\UnityVS\2015\UnityVS.CSharp.targets" />
 </Project>
